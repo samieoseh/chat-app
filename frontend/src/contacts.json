@@ -1,0 +1,52 @@
+[
+  {
+    "_id": 1,
+    "name": "John Doe",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 2,
+    "name": "Jane Smith",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 3,
+    "name": "Michael Johnson",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 4,
+    "name": "Emily Davis",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 5,
+    "name": "William Brown",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 6,
+    "name": "Olivia Wilson",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 7,
+    "name": "James Jones",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 8,
+    "name": "Sophia Garcia",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 9,
+    "name": "Benjamin Miller",
+    "avatar": "/.temp.png"
+  },
+  {
+    "_id": 10,
+    "name": "Isabella Martinez",
+    "avatar": "/.temp.png"
+  }
+]
